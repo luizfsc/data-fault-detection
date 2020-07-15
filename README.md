@@ -1,2 +1,2 @@
-# data-fault-detection
+# datasets-fault-detection
 Available data for fault detection problems
